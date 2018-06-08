@@ -27,7 +27,7 @@
 	<div id="head" class="parallax" parallax-speed="2">
 		<h1 id="logo" class="text-center">
 			<img class="img-circle" src="assets/images/yo.jpg" alt="">
-			<span class="title">José Alejandro Reina</span>
+			<span class="title"><img src="assets/images/joseareina.png"></span>
 			<span class="tagline">Mi sitio Personal<br>
 				<a href="">josereina22@gmail.com</a></span>
 		</h1>
@@ -81,13 +81,13 @@
 					<p class="text-center"><a href="" class="btn btn-action">Read more</a></p>
 				</div>
 				<div class="col-sm-6 col-md-3">
-					<h3 class="text-center">Diseños Gráficos.</h3>
+					<h3 class="text-center">Diseño Gráfico.</h3>
 					<p>I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.</p>
 					<p class="text-center"><a href="" class="btn btn-action">Read more</a></p>
 				</div>
 				<div class="col-sm-6 col-md-3">
 					<h3 class="text-center">Reparación de PC.</h3>
-					<p>I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.</p>
+					<p>Trabajo especializado del Hardware(toda la parte física del equipo) y del software (toda la parte funcional del equipo, sistema, programa, etc). Mantención de Equipos, formateo, etc..</p>
 					<p class="text-center"><a href="" class="btn btn-action">Read more</a></p>
 				</div>
 				<div class="col-sm-6 col-md-3">
@@ -100,7 +100,7 @@
 	
 		<div class="row section recentworks topspace">
 			
-			<h2 class="section-title"><span>Recent Works</span></h2>
+			<h2 class="section-title"><span>Mis Proyectos</span></h2>
 			
 			<div class="thumbnails recentworks row">
 				
