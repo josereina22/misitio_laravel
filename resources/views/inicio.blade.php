@@ -12,8 +12,9 @@
 	
 	<!-- Bootstrap -->
 	<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
-	<!-- Icons -->
-	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+	<!-- Icons
+	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
 	<!-- Fonts -->
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
 	<!-- Custom styles -->
@@ -188,8 +189,7 @@
 		<div class="row section topspace">
 			<div class="panel panel-cta"><div class="panel-body">
 				<div class="col-lg-8">
-					<p>A simple, nice-looking <b>call to action box</b>. Boxing is about respect. getting it for yourself, 
-					and taking it away from the other guy. no, this is mount everest. </p>
+					<p>Cuando las cosas se hacen por <b>Amor</b>, todo fluye y sale bien </p>
 				</div>
 				
 			</div></div>
@@ -201,6 +201,16 @@
 				<p>
 					<img src="assets/images/actividades1.png" alt="">
 				</p>
+			</div>
+			<div class="col-lg-12">
+				<span style="font-size: 80px; color: #8892be; padding-right: 15px"><i class="fab fa-php"></i></span>
+				<span style="font-size: 80px; color: #f7df1e; padding-right: 15px"><i class="fab fa-js"></i></span>
+				<span style="font-size: 80px; color: #e34f26; padding-right: 15px"><i class="fab fa-html5"></i></span>
+				<span style="font-size: 80px; color: #48b8e7; padding-right: 15px"><i class="fab fa-css3-alt"></i></span>
+				<span style="font-size: 80px; color: #f55247; padding-right: 15px"><i class="fab fa-laravel"></i></span>
+				<span style="font-size: 80px; color: #bd2c00; padding-right: 15px"><i class="fab fa-git"></i></span>
+				<span style="font-size: 80px; color: #ff9900; padding-right: 15px"><i class="fab fa-aws"></i></span>
+
 			</div>
 		</div> <!-- /section -->
 
@@ -217,7 +227,7 @@
 					<p>+56 9 90342817<br>
 						<a href="mailto:#">josereina22@gmail.com</a><br>
 						<br>
-						Santiago de Chile, Quinta Normal, 4242
+						Santiago de Chile, Estación Central, 110
 					</p>	
 				</div>
 			</div>
@@ -226,10 +236,13 @@
 				<h3 class="widget-title">Redes Sociales</h3>
 				<div class="widget-body">
 					<p class="follow-me-icons">
-						<a href="https://twitter.com/Yosoyjose22"><i class="fa fa-twitter fa-2"></i></a>
-						<a href="https://www.instagram.com/josereina2/"><i class="fa fa-instagram fa-2"></i></a>
-						<a href="https://github.com/josereina22"><i class="fa fa-github fa-2"></i></a>
-						<a href="https://www.facebook.com/JOSEAREINAM"><i class="fa fa-facebook fa-2"></i></a>
+						<a href="https://twitter.com/josereina22" style="color: #1da1f2"><i class="fab fa-twitter fa-2"></i></a>
+						<a href="https://www.instagram.com/josereina2/" style="color: #833ab4"><i class="fab fa-instagram fa-2"></i></a>
+						<a href="https://github.com/josereina22" style="color: #c9510c"><i class="fab fa-github fa-2"></i></a>
+						<a href="https://www.facebook.com/JOSEAREINAM" style="color: #3b5998"><i class="fab fa-facebook fa-2"></i></a>
+						<a href="#" style="color: #0077b5;"><i class="fab fa-linkedin-in"></i></a>
+						<a href="#" style="color: #00aff0;"><i class="fab fa-skype"></i></a>
+						<span style="color: #205081;"><i class="fab fa-bitbucket"></i></span>
 					</p>
 				</div>
 			</div>
@@ -270,7 +283,7 @@
 			<div class="col-md-6 widget">
 				<div class="widget-body">
 					<p class="text-right">
-						Copyright &copy; 2017, Your awesome name here<br> 
+						Copyright &copy; {{date('Y')}}<br>
 						Desarrollado por: <b>José Alejandro Reina. </b></p>
 				</div>
 			</div>
